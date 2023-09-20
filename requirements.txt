@@ -3,3 +3,4 @@ qdrant_client
 openai
 fastapi
 uvicorn
+pydantic==1.10.9
