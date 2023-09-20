@@ -1,3 +1,6 @@
 langchain
 qdrant_client
 openai
+fastapi
+gunicorn
+
