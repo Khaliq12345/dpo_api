@@ -1,4 +1,3 @@
 langchain
 qdrant_client
 openai
-tiktoken==3.6
