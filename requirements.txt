@@ -1,4 +1,4 @@
-langchain
+langchain==0.0.281
 qdrant_client
 openai
 fastapi
