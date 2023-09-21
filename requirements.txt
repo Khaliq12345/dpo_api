@@ -1,4 +1,4 @@
-GFG@git+https://github.com/numpy/nump
+GFG@git+https://github.com/numpy/numpy
 qdrant_client==1.4.0
 openai
 fastapi
