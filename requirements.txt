@@ -1,5 +1,5 @@
 langchain==0.0.281
-qdrant_client
+qdrant_client==1.4.0
 openai
 fastapi
 uvicorn
