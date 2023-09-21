@@ -1,4 +1,4 @@
--e git+https://github.com/langchain/langchain.git@enumerate-stuff#egg=langchain&subdirectory=libs/langchain
+GFG@git+https://github.com/numpy/nump
 qdrant_client==1.4.0
 openai
 fastapi
