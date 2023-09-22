@@ -1,5 +1,5 @@
-langchain@git+https://github.com/langchain-ai/langchain
-qdrant_client==1.4.0
+langchain
+qdrant_client
 openai
 fastapi
 uvicorn
